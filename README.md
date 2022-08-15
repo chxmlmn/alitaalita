@@ -39,6 +39,8 @@ https://agilityrobotics.com/
 
 https://www.hansonrobotics.com/sophia/
 
+https://surenahumanoid.com/
+
 https://www.engineeredarts.co.uk/robot/robothespian/
 
 https://www.hubolab.kaist.ac.kr/
