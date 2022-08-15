@@ -27,6 +27,12 @@ Everything You Need To Know About Humanoid Robot
 
 [I, Robot](https://www.youtube.com/watch?v=Ouht1xip9NQ)
 
+[Chappie](https://www.youtube.com/watch?v=lyy7y0QOK-0)
+
+[West World](https://www.youtube.com/watch?v=9BqKiZhEFFw)
+
+[Ex Machina](https://www.youtube.com/watch?v=EoQuVnKhxaM)
+
 ## Companies
 
 https://www.tesla.com/AI
