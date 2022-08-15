@@ -15,7 +15,7 @@ Everything You Need To Know About Humanoid Robot
 
 [Feedback control of humanoid robots: balancing and walking](https://www.pdfdrive.com/feedback-control-of-humanoid-robots-balancing-and-walking-e46491525.html)
 
-[THE FUTURE OF HUMANOID ROBOTS – RESEARCH AND APPLICATIONS](https://www.iaarc.org/wp-content/uploads/2020/01/a_news_2012_01_17.pdf)
+[The Future of Humanoid Robots – Research and Applications](https://www.iaarc.org/wp-content/uploads/2020/01/a_news_2012_01_17.pdf)
 
 [Humanoid Robots: Modeling And Control](https://vdoc.pub/documents/humanoid-robots-modeling-and-control-2ighcj55m0g0)
 
@@ -23,8 +23,9 @@ Everything You Need To Know About Humanoid Robot
 
 ## Films
 
+[Alita: Battle Angel](https://www.youtube.com/watch?v=YAvPAHN5RxA)
 
-
+[I, Robot](https://www.youtube.com/watch?v=0M3KdxSUvkY)
 
 ## Companies
 
