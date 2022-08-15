@@ -41,12 +41,19 @@ https://www.hansonrobotics.com/sophia/
 
 https://www.engineeredarts.co.uk/robot/robothespian/
 
+https://global.honda/innovation/robotics/ASIMO.html
+
+https://www.hubolab.kaist.ac.kr/
+
 https://www.softbankrobotics.com/corp/robots/
 
 https://www.pollen-robotics.com/
 
 https://www.tmsuk.co.jp/pedia_roid/
 
+http://hil.atr.jp/en/robots.html
+
+https://icub.iit.it/
 
 ## Websites
 
