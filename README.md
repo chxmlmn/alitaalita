@@ -1,5 +1,4 @@
-# AlitaAlita
-Everything You Need To Know About Humanoid Robot
+# Everything You Need To Know About Humanoid Robot
 
 ## Books
 
@@ -29,9 +28,25 @@ Everything You Need To Know About Humanoid Robot
 
 [Chappie](https://www.youtube.com/watch?v=lyy7y0QOK-0)
 
+[The Monsters of Man](https://www.youtube.com/watch?v=SP3IglpExwA)
+
+[Terminator Series](https://www.youtube.com/watch?v=iYrcUanZ2dM)
+
+[Ghost In the Shell](https://www.youtube.com/watch?v=G4VmJcZR0Yg)
+
+[I Am Mother](https://www.youtube.com/watch?v=N5BKctcZxrM)
+
 [West World](https://www.youtube.com/watch?v=9BqKiZhEFFw)
 
+[Real Steel](https://www.youtube.com/watch?v=XNAKl_D2gxc)
+
 [Ex Machina](https://www.youtube.com/watch?v=EoQuVnKhxaM)
+
+[The Mandalorian](https://www.youtube.com/watch?v=aOC8E8z_ifw)
+
+[Surrogates](https://www.youtube.com/watch?v=KC5TrKNIDHQ)
+
+[The Humanoid](https://www.youtube.com/watch?v=3nlWSMDY1kE)
 
 ## Companies
 
@@ -70,5 +85,7 @@ https://sites.disney.com/waltdisneyimagineering/stuntronics/
 ## Websites
 
 https://robots.ieee.org/robots/
+
+https://www.youtube.com/watch?v=qBvud1CeR1k
 
 https://humanrobottechnologies.com/
