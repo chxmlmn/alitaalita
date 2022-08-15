@@ -23,9 +23,9 @@ Everything You Need To Know About Humanoid Robot
 
 ## Films
 
-[Alita: Battle Angel](https://www.youtube.com/watch?v=YAvPAHN5RxA)
+[Alita: Battle Angel](https://www.youtube.com/watch?v=w7pYhpJaJW8)
 
-[I, Robot](https://www.youtube.com/watch?v=0M3KdxSUvkY)
+[I, Robot](https://www.youtube.com/watch?v=Ouht1xip9NQ)
 
 ## Companies
 
@@ -36,6 +36,8 @@ https://www.mi.com/cyberone
 https://www.bostondynamics.com/atlas
 
 https://agilityrobotics.com/
+
+https://www.hansonrobotics.com/sophia/
 
 https://www.engineeredarts.co.uk/robot/robothespian/
 
