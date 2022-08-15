@@ -61,7 +61,7 @@ https://icub.iit.it/
 
 ## Websites
 
-https://robots.ieee.org/robots/digit/
+https://robots.ieee.org/robots/
 
 https://humanrobottechnologies.com/
 
