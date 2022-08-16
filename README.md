@@ -80,6 +80,8 @@ http://hil.atr.jp/en/robots.html
 
 https://icub.iit.it/
 
+https://www.dyson.com.sg/newsroom/global-robotics-announcement
+
 https://sites.disney.com/waltdisneyimagineering/stuntronics/
 
 ## Websites
