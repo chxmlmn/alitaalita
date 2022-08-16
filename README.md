@@ -1,4 +1,6 @@
-# Everything You Need To Know About Humanoid Robot
+# AlitaAlita.com
+
+Everything You Need To Know About Humanoid Robots
 
 ## Books
 
@@ -83,6 +85,14 @@ https://icub.iit.it/
 https://www.dyson.com.sg/newsroom/global-robotics-announcement
 
 https://sites.disney.com/waltdisneyimagineering/stuntronics/
+
+## Components
+
+## Theory
+
+## Keywords
+
+## Quotes
 
 ## Websites
 
