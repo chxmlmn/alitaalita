@@ -22,6 +22,8 @@ Everything You Need To Know About Humanoid Robots
 
 [An Introduction to Robotics](https://www.ohio.edu/mechanical-faculty/williams/html/PDF/IntroRob.pdf)
 
+[John Boorman Domestic Robots](https://archive.org/details/john-boorman-domestic-robots)
+
 ## Films
 
 [Alita: Battle Angel](https://www.youtube.com/watch?v=w7pYhpJaJW8)
@@ -49,6 +51,8 @@ Everything You Need To Know About Humanoid Robots
 [Surrogates](https://www.youtube.com/watch?v=KC5TrKNIDHQ)
 
 [The Humanoid](https://www.youtube.com/watch?v=3nlWSMDY1kE)
+
+[Iron Man](https://www.youtube.com/watch?v=dpqelE_9OgA)
 
 ## Companies
 
@@ -149,6 +153,13 @@ http://www.bezlya.com/
 https://www.realdoll.com/
 
 ## Key Persons
+[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
+
+[Marc Raibert](https://en.wikipedia.org/wiki/Marc_Raibert)
+
+[James Dyson](https://en.wikipedia.org/wiki/James_Dyson)
+
+[Lei Jun](https://en.wikipedia.org/wiki/Lei_Jun)
 
 ## Tools
 
