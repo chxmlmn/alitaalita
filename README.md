@@ -88,11 +88,53 @@ https://sites.disney.com/waltdisneyimagineering/stuntronics/
 
 ## Components
 
+### Brain
+
+### Joint
+
+### Battery
+
+### Skin
+
+### Bone
+
+## Market
+
+### Dangerous Tasks
+
+### Households
+
+### Eldercare
+
+### Exhibition
+
+### Doll (18+)
+
+https://22doll.com/
+
+https://www.realdoll.com/
+
 ## Theory
 
 ## Keywords
 
 ## Quotes
+
+### Humanoid robots: doing what humans do
+
+by Elon Musk
+
+> Today's cars are increasingly like smart, web-connected robots on wheels. In fact, in addition to cars, humanoid robots are also becoming a reality, with Tesla launching a general-purpose humanoid robot (Tesla Bot) in 2021. The Tesla Bot is close to the height and weight of an adult, can carry or pick up heavy objects, walk fast in small steps, and the screen on its face is an interactive interface for communication with people. You may wonder why we designed this robot with legs. Because human society is based on the interaction of a bipedal humanoid with two arms and ten fingers. So if we want a robot to adapt to its environment and be able to do what humans do, it has to be roughly the same size, shape, and capabilities as a human.
+>
+> Tesla Bots are initially positioned to replace people in repetitive, boring, and dangerous tasks. But the vision is for them to serve millions of households, such as cooking, mowing lawns, and caring for the elderly.
+>
+> Achieving this goal requires that robots evolve to be smart enough and for us to have the ability to mass produce robots. Our "four-wheeled robots" - cars - have changed the way people travel and even live. One day when we solve the problem of self-driving cars (i.e., real-world artificial intelligence), we will be able to extend artificial intelligence technology to humanoid robots, which will have a much broader application than cars.
+>
+> We plan to launch the first prototype of a humanoid robot this year and focus on improving the intelligence of that robot and solving the problem of large-scale production. Thereafter, humanoid robots' usefulness will increase yearly as production scales up and costs fall. In the future, a home robot may be cheaper than a car. Perhaps in less than a decade, people will be able to buy a robot for their parents as a birthday gift.
+>
+> It is foreseeable that with the power of robots, we will create an era of extreme abundance of goods and services, where everyone can live a life of abundance. Perhaps the only scarcity that will exist in the future is for us to create ourselves as humans.
+>
+> https://beijingchannel.substack.com/p/elon-musks-article-in-china-cyberspace
 
 ## Websites
 
