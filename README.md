@@ -88,7 +88,39 @@ https://sites.disney.com/waltdisneyimagineering/stuntronics/
 
 ## Components
 
+### Sensor
+
+[Sensor](https://en.wikipedia.org/wiki/Sensor)
+
+[Robotic sensors](https://en.wikipedia.org/wiki/Robotic_sensors)
+
+[Robotic sensing](https://en.wikipedia.org/wiki/Robotic_sensing)
+
+#### Vision
+
+[Computer vision](https://en.wikipedia.org/wiki/Computer_vision)
+
+[SLAM - Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
+
+#### Audition
+
+[Computer audition](https://en.wikipedia.org/wiki/Computer_audition)
+
+[Sound localization](https://en.wikipedia.org/wiki/Sound_localization)
+
 ### Brain
+
+[Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+
+[AI - Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
+[Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+
+[Data science](https://en.wikipedia.org/wiki/Data_science)
+
+[Computer science](https://en.wikipedia.org/wiki/Computer_science)
+
+[Information theory](https://en.wikipedia.org/wiki/Information_theory)
 
 ### Joint
 
@@ -116,9 +148,7 @@ http://www.bezlya.com/
 
 https://www.realdoll.com/
 
-## Theory
-
-## Keywords
+## Tools
 
 ## Quotes
 
@@ -144,4 +174,7 @@ https://robots.ieee.org/robots/
 
 https://www.youtube.com/watch?v=qBvud1CeR1k
 
+https://mitpress.mit.edu/9780262033275/
+
 https://humanrobottechnologies.com/
+
