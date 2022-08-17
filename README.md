@@ -112,6 +112,8 @@ https://sites.disney.com/waltdisneyimagineering/stuntronics/
 
 https://22doll.com/
 
+http://www.bezlya.com/
+
 https://www.realdoll.com/
 
 ## Theory
