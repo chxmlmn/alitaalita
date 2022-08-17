@@ -68,7 +68,7 @@ https://www.hansonrobotics.com/sophia/
 
 https://surenahumanoid.com/
 
-https://www.engineeredarts.co.uk/robot/robothespian/
+https://www.engineeredarts.co.uk/robot/ameca/
 
 https://www.hubolab.kaist.ac.kr/
 
