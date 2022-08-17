@@ -64,11 +64,11 @@ https://www.bostondynamics.com/atlas
 
 https://agilityrobotics.com/
 
-https://www.hansonrobotics.com/sophia/
+https://www.engineeredarts.co.uk/robot/ameca/
+
+https://www.hansonrobotics.com/
 
 https://surenahumanoid.com/
-
-https://www.engineeredarts.co.uk/robot/ameca/
 
 https://www.hubolab.kaist.ac.kr/
 
@@ -143,6 +143,8 @@ https://sites.disney.com/waltdisneyimagineering/stuntronics/
 ### Eldercare
 
 ### Exhibition
+
+https://www.engineeredarts.co.uk/gallery/
 
 ### Doll (18+)
 
