@@ -161,6 +161,8 @@ https://www.realdoll.com/
 
 [Lei Jun](https://en.wikipedia.org/wiki/Lei_Jun)
 
+[Damion Shelton](https://www.linkedin.com/in/damion-shelton-1b5b90a/)
+
 ## Tools
 
 ## Quotes
