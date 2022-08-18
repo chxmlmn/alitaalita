@@ -102,6 +102,8 @@ HRP-4 Walk https://www.youtube.com/watch?v=MLpwU_lWzgk
 
 HRP-4C Dance https://www.youtube.com/watch?v=xcZJqiUrbnI
 
+HRP-4C Miim Walk https://www.youtube.com/watch?v=QCuh1pPMvM4
+
 ## Components
 
 ### Sensor
