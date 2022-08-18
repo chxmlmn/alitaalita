@@ -134,6 +134,9 @@ https://sites.disney.com/waltdisneyimagineering/stuntronics/
 
 [Motors & Actuators](https://www.robotshop.com/en/motors-actuators.html)
 
+[Achievement of Twist Squat by Musculoskeletal Humanoid
+with Screw-Home Mechanism](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_IROS_2013/media/files/1556.pdf)
+
 ### Battery
 
 [Electric battery](https://en.wikipedia.org/wiki/Electric_battery)
@@ -143,6 +146,14 @@ https://sites.disney.com/waltdisneyimagineering/stuntronics/
 [Silicone](https://en.wikipedia.org/wiki/Silicone)
 
 [TPE - Thermoplastic elastomer](https://en.wikipedia.org/wiki/Thermoplastic_elastomer)
+
+[Japanese scientists develop 'living human skin' on robotic finger](https://www.youtube.com/watch?v=1fvlYZ0zwa0)
+
+### Muscle
+
+A robotic Petri dish: How to grow human cells in a robot shoulder
+[Video](https://www.youtube.com/watch?v=wd4YPsIh7h0&t=2s)
+[Paper](https://www.nature.com/articles/s44172-022-00004-9)
 
 ## Market
 
@@ -191,8 +202,6 @@ https://www.sarcos.com/defense/
 [Lei Jun](https://en.wikipedia.org/wiki/Lei_Jun)
 
 [Damion Shelton](https://www.linkedin.com/in/damion-shelton-1b5b90a/)
-
-## Tools
 
 ## Quotes
 
