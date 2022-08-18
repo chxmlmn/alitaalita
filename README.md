@@ -98,6 +98,10 @@ https://nextage.kawadarobot.co.jp/
 
 https://global.honda/innovation/robotics/ASIMO.html
 
+HRP-4 Walk https://www.youtube.com/watch?v=MLpwU_lWzgk
+
+HRP-4C Dance https://www.youtube.com/watch?v=xcZJqiUrbnI
+
 ## Components
 
 ### Sensor
