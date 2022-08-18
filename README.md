@@ -64,6 +64,8 @@ https://www.bostondynamics.com/atlas
 
 https://agilityrobotics.com/
 
+https://www.sarcos.com/
+
 https://www.engineeredarts.co.uk/robot/ameca/
 
 https://www.hansonrobotics.com/
@@ -86,7 +88,7 @@ http://hil.atr.jp/en/robots.html
 
 https://icub.iit.it/
 
-https://www.dyson.com.sg/newsroom/global-robotics-announcement
+https://www.dyson.com/newsroom/news/corporate/Robotics
 
 https://sites.disney.com/waltdisneyimagineering/stuntronics/
 
@@ -128,31 +130,55 @@ https://sites.disney.com/waltdisneyimagineering/stuntronics/
 
 ### Joint
 
+[Actuator](https://en.wikipedia.org/wiki/Actuator)
+
+[Motors & Actuators](https://www.robotshop.com/en/motors-actuators.html)
+
 ### Battery
+
+[Electric battery](https://en.wikipedia.org/wiki/Electric_battery)
 
 ### Skin
 
-### Bone
+[Silicone](https://en.wikipedia.org/wiki/Silicone)
+
+[TPE - Thermoplastic elastomer](https://en.wikipedia.org/wiki/Thermoplastic_elastomer)
 
 ## Market
 
-### Dangerous Tasks
+### Dangerous Jobs
+
+https://robotsdoneright.com/Articles/robots-are-taking-over-dangerous-jobs.html
+
+https://blog.robotiq.com/5-super-dangerous-jobs-that-robots-can-do-safely
 
 ### Households
 
-### Eldercare
+https://www.dyson.com/newsroom/news/corporate/Robotics
+
+### Eldercare & Healthcare
+
+https://www.youtube.com/watch?v=SZTYyFNSL5o
+
+https://www.akara.ai/
+
+https://infrobotics.com/
 
 ### Exhibition
 
+https://www.madametussauds.com/hollywood/
+
 https://www.engineeredarts.co.uk/gallery/
 
-### Doll (18+)
+### Doll
 
 https://22doll.com/
 
-http://www.bezlya.com/
+https://www.reddit.com/r/Dolls/
 
-https://www.realdoll.com/
+### Warfare
+
+https://www.sarcos.com/defense/
 
 ## Key Persons
 
