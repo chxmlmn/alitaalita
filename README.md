@@ -2,6 +2,8 @@
 
 Everything You Need To Know About Humanoid Robots
 
+![TeslaBot vs. XiaomiBot vs. Human](infographics/TeslaBot-vs-XiaomiBot-vs-Human.png)
+
 ## Books
 
 [Humanoid Robotics: A Reference](https://www.pdfdrive.com/humanoid-robotics-a-reference-e187758124.html)
