@@ -54,7 +54,7 @@ Everything You Need To Know About Humanoid Robots
 
 [Iron Man](https://www.youtube.com/watch?v=dpqelE_9OgA)
 
-## Companies
+## Companies & Products
 
 https://www.tesla.com/AI
 
@@ -74,10 +74,6 @@ https://surenahumanoid.com/
 
 https://www.hubolab.kaist.ac.kr/
 
-https://nextage.kawadarobot.co.jp/
-
-https://global.honda/innovation/robotics/ASIMO.html
-
 https://www.softbankrobotics.com/corp/robots/
 
 https://www.pollen-robotics.com/
@@ -91,6 +87,16 @@ https://icub.iit.it/
 https://www.dyson.com/newsroom/news/corporate/Robotics
 
 https://sites.disney.com/waltdisneyimagineering/stuntronics/
+
+### HRP Series
+
+https://en.wikipedia.org/wiki/Humanoid_Robotics_Project
+
+https://www.techfak.uni-bielefeld.de/~rhaschke/lehre/WS04/humanoids/papers/HRP.pdf
+
+https://nextage.kawadarobot.co.jp/
+
+https://global.honda/innovation/robotics/ASIMO.html
 
 ## Components
 
