@@ -205,6 +205,10 @@ https://www.reddit.com/r/Dolls/
 
 https://www.sarcos.com/defense/
 
+https://www.darpa.mil/program/darpa-robotics-challenge
+
+https://www.darpa.mil/about-us/timeline/debut-atlas-robot
+
 ## Key Persons
 
 [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
