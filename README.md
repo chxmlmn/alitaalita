@@ -108,6 +108,12 @@ HRP-4C Dance https://www.youtube.com/watch?v=xcZJqiUrbnI
 
 HRP-4C Miim Walk https://www.youtube.com/watch?v=QCuh1pPMvM4
 
+## Videos
+
+https://twitter.com/agilityrobotics/status/1547314203974725632
+
+https://twitter.com/JaniceLiCN/status/1560307787393126400
+
 ## Components
 
 ### Sensor
