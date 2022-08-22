@@ -173,6 +173,10 @@ A robotic Petri dish: How to grow human cells in a robot shoulder
 
 ## Market
 
+### Delivery & Logistics
+
+https://www.youtube.com/watch?v=dh33-vpgr4Y
+
 ### Dangerous Jobs
 
 https://robotsdoneright.com/Articles/robots-are-taking-over-dangerous-jobs.html
@@ -221,7 +225,7 @@ https://www.darpa.mil/about-us/timeline/debut-atlas-robot
 
 [Lei Jun](https://en.wikipedia.org/wiki/Lei_Jun)
 
-[Damion Shelton](https://www.linkedin.com/in/damion-shelton-1b5b90a/)
+[Jonathan Hurst](https://www.linkedin.com/in/jonathan-hurst-b9037a5/)
 
 ## Quotes
 
