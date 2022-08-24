@@ -3,8 +3,8 @@
 Everything You Need To Know About Humanoid Robots
 
 <p>
-  <img src="infographics/TeslaBot-vs-XiaomiBot-vs-Human.png" alt="TeslaBot vs. XiaomiBot vs. Human" style="width: 50%;">
-  <img src="infographics/Atlas-vs-Digit-vs-HRP.png" alt="Atlas vs. Digit vs. HRP-4C" style="width: 50%;">
+  <img src="infographics/TeslaBot-vs-XiaomiBot-vs-Human.png" alt="TeslaBot vs. XiaomiBot vs. Human" style="width: 49%;">
+  <img src="infographics/Atlas-vs-Digit-vs-HRP.png" alt="Atlas vs. Digit vs. HRP-4C" style="width: 49%;">
 </p>
 
 ## Books
