@@ -184,11 +184,19 @@ A robotic Petri dish: How to grow human cells in a robot shoulder
 
 https://www.youtube.com/watch?v=dh33-vpgr4Y
 
-### Dangerous Jobs
+### Exhibition
 
-https://robotsdoneright.com/Articles/robots-are-taking-over-dangerous-jobs.html
+https://en.wikipedia.org/wiki/Mannequin
 
-https://blog.robotiq.com/5-super-dangerous-jobs-that-robots-can-do-safely
+https://www.madametussauds.com/hollywood/
+
+https://www.engineeredarts.co.uk/gallery/
+
+### Doll
+
+https://22doll.com/
+
+https://www.reddit.com/r/Dolls/
 
 ### Households
 
@@ -202,17 +210,11 @@ https://www.akara.ai/
 
 https://infrobotics.com/
 
-### Exhibition
+### Dangerous Jobs
 
-https://www.madametussauds.com/hollywood/
+https://robotsdoneright.com/Articles/robots-are-taking-over-dangerous-jobs.html
 
-https://www.engineeredarts.co.uk/gallery/
-
-### Doll
-
-https://22doll.com/
-
-https://www.reddit.com/r/Dolls/
+https://blog.robotiq.com/5-super-dangerous-jobs-that-robots-can-do-safely
 
 ### Warfare
 
