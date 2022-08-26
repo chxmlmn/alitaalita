@@ -37,6 +37,8 @@ Everything You Need To Know About Humanoid Robots
 
 [Chappie](https://www.youtube.com/watch?v=lyy7y0QOK-0)
 
+[Outside the Wire](https://www.youtube.com/watch?v=u8ZsUivELbs)
+
 [The Monsters of Man](https://www.youtube.com/watch?v=SP3IglpExwA)
 
 [Terminator Series](https://www.youtube.com/watch?v=iYrcUanZ2dM)
